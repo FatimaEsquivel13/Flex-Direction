@@ -1,0 +1,26 @@
+.contenedor{
+    display: list-item;
+flex-direction: column ;
+width:58px ;
+}
+.rojo{
+    height: 110px;
+}
+.naranja{
+    height: 110px;
+}
+.amarillo{
+    height: 110px;
+}
+.verde{
+    height: 110px;
+}
+.azul{
+    height: 110px;
+}
+.indigo{
+    height: 110px;
+}
+.morado{
+    height: 110px;
+}
